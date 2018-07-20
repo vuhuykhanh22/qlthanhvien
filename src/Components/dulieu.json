@@ -1,0 +1,32 @@
+[
+    {
+    "id":1,
+    "name":"Vũ Huy Khánh",
+    "phone":"0905195818",
+    "authority": 1
+    },
+    {
+        "id":2,
+        "name":"Bùi Ngọc Phương Thảo",
+        "phone":"0905120192",
+        "authority": 2
+        },
+        {
+            "id":3,
+            "name":"Trần Hoàng Luân",
+            "phone":"0905921832",
+            "authority": 3
+            },
+            {
+                "id":4,
+                "name":"Hồ Minh Hiếu",
+                "phone":"0904928192",
+                "authority": 3
+                },
+                {
+                    "id":5,
+                    "name":"Nguyễn Thị Chuối",
+                    "phone":"0929182912",
+                    "authority": 2
+                    }
+]
